@@ -31,7 +31,7 @@ Custo estimado: R$ 33.75 por mês
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/consumo-energia.git
+git clone https://github.com/jeffersonastuti/consumo-energia/
 
 2. Acesse a pasta do projeto:
 cd consumo-energia
